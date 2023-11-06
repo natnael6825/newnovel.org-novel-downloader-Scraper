@@ -80,10 +80,11 @@ crate a repository on git hub and add the following files:-
 
 -package-lock.json
 -package.json
-app.js
+-app.js
 
+after hosting it on Cyclic change the link in the script.js from http://localhost:3000/ to the one Cyclicgenerted for you(it should be on lines  226 and 304. if not search for it)
 
-and you can host the website on : -https://000webhost.com/
+and you can host the website on: -https://000webhost.com/
 add the following file on 000wenhost:-
 
 -index.html
