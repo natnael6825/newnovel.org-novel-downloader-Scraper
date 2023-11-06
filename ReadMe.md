@@ -70,6 +70,14 @@ Before you begin, make sure you have the following software installed:
     - Wait for the application to finish downloading and provide confirmation.
 
 
+<pre>
+
+
+
+
+
+   
+</pre>
 
 
 
@@ -94,8 +102,15 @@ add the following file on 000wenhost:-
 -style.css
 
 
+<pre>
 
 
 
 
-    The content of the novel is found on https://newnovel.org/ .So go to the site and copy the correct name.
+
+   
+</pre>
+
+
+
+The content of the novel is found on https://newnovel.org/ .So go to the site and copy the correct name.
