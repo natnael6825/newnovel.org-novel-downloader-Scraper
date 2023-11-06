@@ -1,5 +1,7 @@
 
-The content of the novel is found on https://newnovel.org/ .So go to the site and copy the correct name.
+The content of the novel is found on https://newnovel.org/.So go to the site and copy the correct name.
+
+
 
 # How to Set Up and Run the Code
 
@@ -66,6 +68,33 @@ Before you begin, make sure you have the following software installed:
     - The application should have a user interface where you can enter the correct name and start chapter and end chapter.
     - After entering the required information, click a button to initiate the download.
     - Wait for the application to finish downloading and provide confirmation.
-  
+
+
+
+
+
+you can deploy the node app on Cyclic.
+use this link: -  https://app.cyclic.sh/#/join/natnael6825
+
+crate a repository on git hub and add the following files:-
+
+-package-lock.json
+-package.json
+app.js
+
+
+and you can host the website on : -https://000webhost.com/
+add the following file on 000wenhost:-
+
+-index.html
+-about.html
+-feedback.html
+-script.js
+-style.css
+
+
+
+
+
 
     The content of the novel is found on https://newnovel.org/ .So go to the site and copy the correct name.
