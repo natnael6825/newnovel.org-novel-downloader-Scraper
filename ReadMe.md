@@ -1,5 +1,5 @@
 
-The content of the novel is found on https://newnovel.org/.So go to the site and copy the correct name.
+The content of the novel is found on https://newnovel.org/ .So go to the site and copy the correct name.
 
 
 
@@ -92,7 +92,7 @@ crate a repository on git hub and add the following files:-
 
 after hosting it on Cyclic change the link in the script.js from http://localhost:3000/ to the one Cyclicgenerted for you(it should be on lines  226 and 307. if not search for it)
 
-and you can host the website on: -https://000webhost.com/
+and you can host the website on: - https://000webhost.com/
 add the following file on 000wenhost:-
 
 -index.html
