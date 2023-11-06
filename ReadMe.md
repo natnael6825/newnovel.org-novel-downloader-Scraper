@@ -1,3 +1,6 @@
+
+The content of the novel is found on https://newnovel.org/ .So go to the site and copy the correct name.
+
 # How to Set Up and Run the Code
 
 Follow these steps to download, set up, and run the provided Node.js application in your local environment. The application allows you to interact with a web-based service to fetch and display data.
@@ -12,7 +15,6 @@ Before you begin, make sure you have the following software installed:
 ## Getting Started
 
 1. **Download the Code as a Zip File**:
-   - Visit the code repository on GitHub using your web browser.
    - Click on the "Code" button located near the top right of the repository's main page.
    - In the dropdown menu, select "Download ZIP."
    - Save the downloaded zip file to a directory on your computer.
@@ -51,16 +53,19 @@ Before you begin, make sure you have the following software installed:
    - In the VSCode integrated terminal, run the following command to start the application:
 
      ```bash
-     node your_script_name.js
+     node app.js
      ```
 
-   Replace `app.js` with the actual name of the JavaScript file containing the code.
+   
 
 8. **Access the Application**:
    - Once the application is running, it will start a server on a specified port (e.g., http://localhost:3000).
-   - Open a web browser and navigate to the specified URL to access the application.
+   - Open index.html to access the application.
 
 9. **Interact with the Application**:
     - The application should have a user interface where you can enter the correct name and start chapter and end chapter.
     - After entering the required information, click a button to initiate the download.
     - Wait for the application to finish downloading and provide confirmation.
+  
+
+    The content of the novel is found on https://newnovel.org/ .So go to the site and copy the correct name.
