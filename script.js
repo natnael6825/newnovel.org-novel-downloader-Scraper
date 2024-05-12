@@ -223,7 +223,7 @@ end=lastchapter;
 
 console.log(chapters)
 
-    var urls= "http://localhost:3000/"+server+"?name="+value1+"&chapter="+chapters;
+    var urls= "https://easy-sneakers-seal.cyclic.app/"+server+"?name="+value1+"&chapter="+chapters;
      
 
          
@@ -304,7 +304,7 @@ document.getElementById("scrape").disabled = true;
       let value1=replaceAll(clean5," ","+");
     
 
-     var urls= "http://localhost:3000/"+"namecheck?name="+value1+"&server="+server;
+     var urls= "https://easy-sneakers-seal.cyclic.app/"+"namecheck?name="+value1+"&server="+server;
       
       
       
