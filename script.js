@@ -223,7 +223,7 @@ end=lastchapter;
 
 console.log(chapters)
 
-    var urls= "https://easy-sneakers-seal.cyclic.app/"+server+"?name="+value1+"&chapter="+chapters;
+    var urls= "https://newnovel-org-novel-downloader-scraper.onrender.com/"+server+"?name="+value1+"&chapter="+chapters;
      
 
          
@@ -304,7 +304,7 @@ document.getElementById("scrape").disabled = true;
       let value1=replaceAll(clean5," ","+");
     
 
-     var urls= "https://easy-sneakers-seal.cyclic.app/"+"namecheck?name="+value1+"&server="+server;
+     var urls= "https://newnovel-org-novel-downloader-scraper.onrender.com/"+"namecheck?name="+value1+"&server="+server;
       
       
       
