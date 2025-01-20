@@ -58,7 +58,7 @@ async function test2(value,chap){
   
   
   const request = https.request({
-    hostname: 'newnovel.org',
+    hostname: 'novgo.co',
     port: 443,
     path: link,
     method: 'GET'
@@ -194,10 +194,10 @@ try{
   let clean7=replaceAll(clean6,'"chapter"',"                          ");
   let clean8=clean7.replace(/\\n\\n/g," ");
   let clean9=clean8.replace(/:"/g,"");
-  let clean10=replaceAll(clean9,"© 2021 NewNovel. All rights reserved","");
+  let clean10=replaceAll(clean9,"© 2021 NOVGO. All rights reserved","");
   let clean11=replaceAll(clean10,'...',"");
   let clean12=replaceAll(clean11,'\n\n',' ');
-  let clean13=replaceAll(clean12,'© 2021 NewNovel. All rights reserved',"");
+  let clean13=replaceAll(clean12,'© 2021 NOVGO. All rights reserved',"");
   let clean14=clean13.replace(/\\/g,"");
   let clean16=clean14.replaceAll(/<\/strong>|<strong>|<\/i>|<i>|<\/em>|<em>|<i class=|hr">/g,"");
   let clean17=clean16.replaceAll('","',"\n\n");
@@ -210,7 +210,7 @@ try{
   let clean22=clean21.replaceAll(';,',"\n\n");
   let clean23=clean22.replaceAll(';',"");
   let clean24=clean23.replaceAll("&#8230","...");
-  let clean25=clean24.replaceAll("© 2021 NewNovel. All rights reserved","");
+  let clean25=clean24.replaceAll("© 2021 NOVGO. All rights reserved","");
   let clean26=clean25.replaceAll("\"","\n");
   let clean27=clean26.replaceAll("&#8216","\‘")
   
@@ -262,7 +262,7 @@ async function test4(value){
   
   
   const request = https.request({
-    hostname: 'newnovel.org',
+    hostname: 'novgo.co',
     port: 443,
     path: link,
     method: 'GET'
@@ -285,7 +285,7 @@ try{
 
 
 
-  name = [...html.matchAll(/<h3 class="h4"><a href="https:\/\/newnovel.org\/novel\/(.*?)<\/a>/gm)].map(match => match[1]);
+  name = [...html.matchAll(/<h3 class="h4"><a href="https:\/\/novgo.co\/novel\/(.*?)<\/a>/gm)].map(match => match[1]);
   
 
     
